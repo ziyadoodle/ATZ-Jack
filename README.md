@@ -18,7 +18,7 @@
 
 ## About The Project
 
-![alt text](https://raw.githubusercontent.com/erickctra/frog-jack/master/src/assets/screenshot.png)
+![alt text](https://raw.githubusercontent.com/ziyadoodle/ATZ-Jack/blob/main/src/assets/screenshot.png)
 
 ### Built With
 
