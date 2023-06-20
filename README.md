@@ -8,7 +8,7 @@
     Made using ReactJS and Tailwind!
     <br />
     <br />
-    <a target="_blank" href="https://frogjack.netlify.app/">View Demo</a>
+    <a target="_blank" href="https://atz-jack.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/erickctra/frog-jack/issues">Report Bug</a>
     ·
